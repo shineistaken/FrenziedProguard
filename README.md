@@ -1,3 +1,9 @@
+### forked from  
+[ WrBug/FrenziedProguard]（https://github.com/WrBug/FrenziedProguard/）
+[RockyQu/ProguardDictionary]（https://github.com/RockyQu/ProguardDictionary/）
+合并了README说明及混淆字典配置文件
+
+
 # 丧心病狂的Android混淆文件生成器
 
 
