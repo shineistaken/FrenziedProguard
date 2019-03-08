@@ -6,6 +6,8 @@
 
 合并了README说明及混淆字典配置文件
 
+# Android Studio 3.x 版本默认读取 proguard-rules.pro 文件中的配置内容，如果混淆规则配置无效可以尝试把 proguard-android.txt 文件中的内容放到 proguard-rules.pro 文件中
+
 
 # 丧心病狂的Android混淆文件生成器
 
